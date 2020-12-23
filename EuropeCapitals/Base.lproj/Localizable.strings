@@ -1,0 +1,6 @@
+"generalDone" = "Done";
+"generalDataError" = "Could not load data. Hit retry button to try again.";
+"generalRetry" = "Retry";
+"capitalListFiltersFavourite" = "Show only favourites:";
+"capitalDetailsScore" = "Score: %@";
+"capitalDetailsViewers" = "%@ viewers saw this city";
